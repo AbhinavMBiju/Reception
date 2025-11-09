@@ -54,7 +54,7 @@ export function HeroSection() {
           <h1 
             className="text-[#2C1810] mb-4"
             style={{ 
-              fontFamily: "'Allura', 'Great Vibes', cursive",
+              fontFamily: "'Playfair Display', 'Cormorant Garamond', serif",
               fontSize: 'clamp(3rem, 10vw, 6rem)',
               lineHeight: '1.2',
               fontWeight: '700'
