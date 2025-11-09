@@ -55,7 +55,7 @@ export function HeroSection() {
             className="text-[#2C1810] mb-4"
             style={{ 
               fontFamily: "'Playfair Display', 'Cormorant Garamond', serif",
-              fontSize: 'clamp(3rem, 10vw, 6rem)',
+              fontSize: 'clamp(2.5rem, 8vw, 5rem)',
               lineHeight: '1.2',
               fontWeight: '700'
             }}
