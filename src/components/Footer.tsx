@@ -75,16 +75,7 @@ export function Footer() {
           Ashith & Aparna • December 2025
         </motion.p>
         
-        <motion.p
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.8, delay: 1 }}
-          className="text-[#6B5744] mt-2 flex items-center justify-center gap-2"
-          style={{ fontSize: '0.875rem' }}
-        >
-          Made with <Heart className="w-4 h-4 text-[#E8D5D8] fill-[#E8D5D8]" /> for our special day
-        </motion.p>
+        
       </div>
     </footer>
   );
