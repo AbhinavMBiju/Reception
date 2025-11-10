@@ -41,7 +41,7 @@ export function HeroSection() {
           className="text-[#D4AF37] tracking-[0.3em] uppercase mb-6"
           style={{ fontFamily: "'Playfair Display', serif" }}
         >
-          You're Invited to Reception of
+          You're Invited to the Wedding Reception of
         </motion.p>
 
         {/* Couple Names */}
