@@ -1,7 +1,7 @@
 
   # Wedding Reception Invitation Website
 
-  This is a code bundle for Wedding Reception Invitation Website. The original project is available at https://www.figma.com/design/FXvv60IYiBk6EGqxvdHYi3/Wedding-Reception-Invitation-Website.
+  This is a code bundle for Wedding Reception Invitation Website. The original project is available at https://ashith-aparna.vercel.app/
 
   ## Running the code
 
